@@ -9,8 +9,8 @@ Este repositório contém códigos elaborados pela equipe para transmissores e r
 <b>Sincronização em Tempo Real:</b> Mantém os dispositivos atualizados com dados em tempo real, garantindo precisão e eficiência. <br>
 
 # Bibliotecas utilizadas:
-<b> </b> - https://www.arduino.cc/reference/en/libraries/dht-sensor-library/ <br>
-<b> </b> - https://www.arduino.cc/reference/en/libraries/rf24/ <br>
+<b><DHT.H></b> - https://www.arduino.cc/reference/en/libraries/dht-sensor-library/ <br>
+<b><RF24.H> </b> - https://www.arduino.cc/reference/en/libraries/rf24/ <br>
 
 # Pinout
 <img src="https://github.com/PedroThiagoRoque/Arduino-GemeosDigitais/blob/main/imagens/prototipo.png" width=65% >
