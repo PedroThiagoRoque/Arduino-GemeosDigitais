@@ -13,6 +13,7 @@ Este repositório contém códigos elaborados pela equipe para transmissores e r
 <b> </b> - https://www.arduino.cc/reference/en/libraries/rf24/ <br>
 
 # Pinout
+<img src="https://github.com/PedroThiagoRoque/Arduino-GemeosDigitais/blob/main/imagens/prototipo.png" width=65% >
 <br>
 
 # Builds:
